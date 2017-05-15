@@ -21,7 +21,7 @@ nel frattempo mi sto documentando su:</p>
 <li>Implementazione progressiva ulteriori sensori</li>
 <li>App Android per la gestione arduino</li>
 <li>App Android per l'invio dati arduino</li>
-<li></li>
+<li><a href="./mappa.html">Mappa su Github</a></li>
 </ul>
 <p>sFATTO list:</p>
 <li>Interfaccia Bluetooth arduino / terminal android</li>
