@@ -10,9 +10,8 @@ nel frattempo mi sto documentando su:</p>
 <li>RED node</li>
 <li>Arduino UNO hw</li>
 <li>Arduino UNO IDE</li>
-<li></li>
 </ul>
-<p>TODO list:</p>
+<p>TODO/Working list:</p>
 <ul>
 <li>Parser RED risposta JSON NMEA da arduino</li>
 <li>Memorizzazione JSON in MONGODB via RED</li>
@@ -29,8 +28,10 @@ nel frattempo mi sto documentando su:</p>
 <li>Gestrione comandi da bluetooth in arduino e risposta</li>
 <li>Parser NMEA per GPS VK2828U7G5LF<li>
 <li>Risposta JSON arduino</li>
-<p>MATERIALE arrivato:</p>
+<li>Creazione accesso e token MAPBOX</li>
 <ul>
+<p>MATERIALE arrivato:</p>
+
 <li>GPS</li>
 </ul>
 <p>Materiale atteso:</p>
