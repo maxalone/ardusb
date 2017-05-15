@@ -11,6 +11,7 @@ nel frattempo mi sto documentando su:</p>
 <li>Arduino UNO hw</li>
 <li>Arduino UNO IDE</li>
 </ul>
+
 <p>TODO/Working list:</p>
 <ul>
 <li>Parser RED risposta JSON NMEA da arduino</li>
@@ -22,18 +23,22 @@ nel frattempo mi sto documentando su:</p>
 <li>App Android per l'invio dati arduino</li>
 <li><a href="./map.html">Mappa su Github</a></li>
 </ul>
+
 <p>sFATTO list:</p>
+<ul>
 <li>Interfaccia Bluetooth arduino / terminal android</li>
 <li>Calcolo temperatura e connessione termistore 503</li>
 <li>Gestrione comandi da bluetooth in arduino e risposta</li>
 <li>Parser NMEA per GPS VK2828U7G5LF<li>
 <li>Risposta JSON arduino</li>
 <li>Creazione accesso e token MAPBOX</li>
-<ul>
-<p>MATERIALE arrivato:</p>
+</ul>
 
+<p>MATERIALE arrivato:</p>
+<ul>
 <li>GPS</li>
 </ul>
+
 <p>Materiale atteso:</p>
 <ul>
 <li>Sensore PM10</li>
