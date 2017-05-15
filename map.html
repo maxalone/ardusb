@@ -8,6 +8,17 @@
    crossorigin=""></script>   
 </head>   
 <body>
+   <script>
+   var map = L.map('map').setView([51.505, -0.09], 13);
+
+L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+    attribution: '&copy; <a href="http://thenightmarecontinues.yolasite.com/">OpenMindMap</a> contributors'
+}).addTo(map);
+
+L.marker([51.5, -0.09]).addTo(map)
+    .bindPopup('Qualcosa<br>da qualche parte.')
+    .openPopup();
+   </script>
  <div id="mapid"></div>
 </body>
 <html>   
