@@ -29,7 +29,7 @@ nel frattempo mi sto documentando su:</p>
 <li>Interfaccia Bluetooth arduino / terminal android</li>
 <li>Calcolo temperatura e connessione termistore 503</li>
 <li>Gestrione comandi da bluetooth in arduino e risposta</li>
-<li>Parser NMEA per GPS VK2828U7G5LF<li>
+<li>Parser NMEA per GPS VK2828U7G5LF</li>
 <li>Risposta JSON arduino</li>
 <li>Creazione accesso e token MAPBOX</li>
 </ul>
