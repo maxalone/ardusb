@@ -1,3 +1,5 @@
-{"type":"Point",
-"coordinates":[13.943706,42.82559466]
+{
+"type":"Feature","geometry":
+  {"type":"Point","coordinates":[13.943706,42.82559466,124.5]
+  },"properties":{"temp": "23.2"}
 }
