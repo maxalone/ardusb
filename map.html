@@ -8,7 +8,7 @@
    
    
    <script src="./leaflet-heat.js"></script>
-   <script src="./vettorevalori.js"></script>
+//   <script src="./vettorevalori.js"></script>
    
    <script>
    var map = L.map('mapid').setView([42.82,13.94], 12);
@@ -17,9 +17,21 @@ var tiles = L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
     attribution: '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors',
 }).addTo(map);
 
-addressPoints = addressPoints.map(function (p) { return [p[0], p[1]]; });
+//addressPoints = addressPoints.map(function (p) { return [p[0], p[1]]; });
+//var heat = L.heatLayer(addressPoints).addTo(map);
 
-var heat = L.heatLayer(addressPoints).addTo(map);
+
+var heat = L.heatLayer([
+[42.82559466,13.943706,2.37],
+[42.82468282,13.942836,2.47],
+[42.82377940,13.941660,2.27],
+[42.82286466,13.944506,2.37],
+[42.82199382,13.945436,2.47],
+[42.82655540,13.946360,2.27],
+[42.82744660,13.947240,2.67],
+[42.82833560,13.948140,2.67]
+], {radius: 65}).addTo(map);
+
 </script>
  
 </body>
