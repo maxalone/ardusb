@@ -7,6 +7,9 @@ nel frattempo mi sto documentando su:</p>
 <li>GitHub pages</li>
 <li>JSON</li>
 <li>GeoJSON</li>
+<li>GeoJSON in Github</li>
+<li>accesso Github a DATA GeoJSON</li>
+<li>aggiornare dati su GitHUB da RED</li>
 <li>RED node</li>
 <li>Arduino UNO hw</li>
 <li>Arduino UNO IDE</li>
@@ -21,7 +24,8 @@ nel frattempo mi sto documentando su:</p>
 <li>Implementazione progressiva ulteriori sensori</li>
 <li>App Android per la gestione arduino</li>
 <li>App Android per l'invio dati arduino</li>
-<li><a href="./map.html">Mappa su Github</a></li>
+<li><a href="./map.html">Mappa html su Github</a></li>
+<li><a href="./mapgjsongithub.geojson">Mappa GeoJSON su Github</a></li>
 </ul>
 
 <p>sFATTO list:</p>
