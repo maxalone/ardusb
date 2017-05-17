@@ -14,6 +14,7 @@ nel frattempo mi sto documentando su:</p>
 <li>RED node</li>
 <li>Arduino UNO hw</li>
 <li>Arduino UNO IDE</li>
+<li>MQTT</li>
 </ul>
 
 <p>TODO/Working list:</p>
@@ -43,7 +44,7 @@ nel frattempo mi sto documentando su:</p>
 <p>MATERIALE arrivato:</p>
 <ul>
 <li>GPS VK2828U7G5LF</li>
-<li>Iic/i2c + consiglio lcd 2004 20*4 lcd 20x4 5 v blu schermo lcd lcd2004 modulo lcd lcd 2004 per arduino</li>
+<li>Iic/i2c lcd 2004 20*4 lcd 20x4 5 v blu schermo per arduino</li>
 </ul>
 
 <p>Materiale atteso:</p>
