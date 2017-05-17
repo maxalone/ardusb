@@ -8,6 +8,7 @@ nel frattempo mi sto documentando su:</p>
 <li>JSON</li>
 <li>GeoJSON</li>
 <li>GeoJSON in Github</li>
+<li>GeoJSON in MongoDB</li>
 <li>accesso Github a DATA GeoJSON</li>
 <li>aggiornare dati su GitHUB da RED</li>
 <li>RED node</li>
@@ -17,6 +18,7 @@ nel frattempo mi sto documentando su:</p>
 
 <p>TODO/Working list:</p>
 <ul>
+<li>Collegamento display per controllo in mobilità</li>
 <li>Parser RED risposta JSON NMEA da arduino</li>
 <li>Memorizzazione JSON in MONGODB via RED</li>
 <li>Rappresentazione dati in tempo reale in cruscotto RED</li>
