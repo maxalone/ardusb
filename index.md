@@ -18,7 +18,6 @@ nel frattempo mi sto documentando su:</p>
 
 <p>TODO/Working list:</p>
 <ul>
-<li>Collegamento display per controllo in mobilità</li>
 <li>Parser RED risposta JSON NMEA da arduino</li>
 <li>Memorizzazione JSON in MONGODB via RED</li>
 <li>Rappresentazione dati in tempo reale in cruscotto RED</li>
@@ -38,6 +37,7 @@ nel frattempo mi sto documentando su:</p>
 <li>Parser NMEA per GPS VK2828U7G5LF</li>
 <li>Risposta JSON arduino</li>
 <li>Creazione accesso e token MAPBOX</li>
+<li>Collegamento display per controllo in mobilità</li>
 </ul>
 
 <p>MATERIALE arrivato:</p>
