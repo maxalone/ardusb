@@ -39,6 +39,7 @@ nel frattempo mi sto documentando su:</p>
 <li>Risposta JSON arduino</li>
 <li>Creazione accesso e token MAPBOX</li>
 <li>Collegamento display per controllo in mobilità</li>
+<li>Primo cruscotto RED controllo temperatura</li>
 </ul>
 
 <p>MATERIALE arrivato:</p>
