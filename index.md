@@ -47,6 +47,7 @@ nel frattempo mi sto documentando su:</p>
 <ul>
 <li>GPS VK2828U7G5LF</li>
 <li>Iic/i2c lcd 2004 20*4 lcd 20x4 5 v blu schermo per arduino</li>
+<li>Nova pm sensore sds011 laser ad alta precisione modulo sensore di rilevamento di qualità super polvere polvere pm2.5</li>
 </ul>
 
 <p>Materiale atteso:</p>
@@ -57,6 +58,5 @@ nel frattempo mi sto documentando su:</p>
 <li>1602 16x2 HD44780 per arduino LCD Carattere/w IIC/I2C</li>
 <li>Alta Sensibilità Microfono Suono Modulo Sensore di Rilevamento Per Arduino AVR PIC</li>
 <li>Nuovo Wireless modulo CH340 NodeMcu V3 Lua WIFI Internet of Things ESP8266</li>
-<li>Nova pm sensore sds011 laser ad alta precisione modulo sensore di rilevamento di qualità super polvere polvere pm2.5</li>
 <li>DHT22/Am2302 Digitale e Sensore di Umidità</li>
 </ul>
