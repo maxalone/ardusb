@@ -40,6 +40,7 @@ nel frattempo mi sto documentando su:</p>
 <li>Creazione accesso e token MAPBOX</li>
 <li>Collegamento display per controllo in mobilità</li>
 <li>Primo cruscotto RED controllo temperatura</li>
+<li>Creazione account su MQTT broker https://io.adafruit.com/</li>
 </ul>
 
 <p>MATERIALE arrivato:</p>
