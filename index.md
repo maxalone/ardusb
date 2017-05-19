@@ -38,7 +38,7 @@ nel frattempo mi sto documentando su:</p>
 <li>Parser NMEA per GPS VK2828U7G5LF</li>
 <li>Risposta JSON arduino</li>
 <li>Creazione accesso e token MAPBOX</li>
-<li>Collegamento display per controllo in mobilità</li>
+<li>Collegamento display per controllo in mobilità <img width="10%" src="./WhatsApp Image 2017-05-19 at 18.13.48.jpeg"></li>
 <li>Primo cruscotto RED controllo temperatura <img width="10%" src="./WhatsApp Image 2017-05-18 at 23.25.29.jpeg"></li>
 <li>Creazione account su MQTT broker https://io.adafruit.com/</li>
 </ul>
