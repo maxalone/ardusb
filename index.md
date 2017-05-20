@@ -42,6 +42,8 @@ nel frattempo mi sto documentando su:</p>
 <li>Primo cruscotto RED controllo temperatura<br /><img width="10%" src="./WhatsApp Image 2017-05-18 at 23.25.29.jpeg" /></li>
 <li>Creazione account su MQTT broker https://io.adafruit.com/</li>
 <li>Prime letture da SDS011, segue implementazione nel prototipo<br /><img width="10%" src="sds011.JPG" /></li>
+<li>Gestione frequenza di campionamento/pausa</li>
+<li>Raccolta dei prototipi sw e stesura rel.1.0 Implementazione cruscotto RED<b /><img width="10%" src="./ardusb2.JPG /><br />Completare con GPS</li>
 </ul>
 
 <p>MATERIALE arrivato:</p>
