@@ -45,6 +45,7 @@ nel frattempo mi sto documentando su:</p>
 <li>Gestione frequenza di campionamento/pausa</li>
 <li>Raccolta dei prototipi sw e stesura rel.1.0 Implementazione cruscotto RED<br /><a href="https://maxalone.github.io/ardusb/ardusb2.JPG"><img width="10%" src="./ardusb2.JPG" /></a><br />Completare con GPS</li>
 </ul>
+<li>Creazione db e collezione su MONGODB e popolamento da RED conservando la natura JSON<a href="https://maxalone.github.io/ardusb/mongo.JPG"><img width="10%" src="./mongo.JPG" /></a><br /><a href="https://maxalone.github.io/ardusb/node_mongo.JPG"><img width="10%" src="./node_mongo.JPG" /></a></li>
 
 <p>MATERIALE arrivato:</p>
 <ul>
