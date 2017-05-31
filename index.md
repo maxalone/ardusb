@@ -15,6 +15,7 @@ nel frattempo mi sto documentando su:</p>
 <li>Arduino UNO hw</li>
 <li>Arduino UNO IDE</li>
 <li>MQTT</li>
+<li>Mosquito MQTT broker</li>
 </ul>
 
 <p>TODO/Working list:</p>
@@ -46,6 +47,7 @@ nel frattempo mi sto documentando su:</p>
 <li>Raccolta dei prototipi sw e stesura rel.1.0 Implementazione cruscotto RED<br /><a href="https://maxalone.github.io/ardusb/ardusb2.JPG"><img width="10%" src="./ardusb2.JPG" /></a><br />Completare con GPS</li>
 </ul>
 <li>Creazione db e collezione su MONGODB e popolamento da RED conservando la natura JSON<br /><a href="https://maxalone.github.io/ardusb/mongo.JPG"><img width="10%" src="./mongo.JPG" /></a><br /><a href="https://maxalone.github.io/ardusb/node_mongo.JPG"><img width="10%" src="./node_mongo.JPG" /></a></li>
+<li>Aggiunto campo data e ora nel payload verso mongodb</li>
 
 <p>MATERIALE arrivato:</p>
 <ul>
@@ -55,11 +57,11 @@ nel frattempo mi sto documentando su:</p>
 <li>1602 16x2 HD44780 per arduino LCD Carattere/w IIC/I2C</li>
 <li>40 pz in Fila Dupont Cavo 20 cm 2.54mm pin 1 p-1 p Femmina a Ponticello</li>
 <li>Alta Sensibilità Microfono Suono Modulo Sensore di Rilevamento Per Arduino AVR PIC</li>
+<li>5 V-3 V IIC UART SPI Four Modulo Convertitore di Livello A 4 Canali per Arduino</li>
 </ul>
 
 <p>Materiale atteso:</p>
 <ul>
-<li>5 V-3 V IIC UART SPI Four Modulo Convertitore di Livello A 4 Canali per Arduino</li>
 <li>micro sd tf card di memoria micro sd spi per arduino shield module</li>
 <li>Nuovo Wireless modulo CH340 NodeMcu V3 Lua WIFI Internet of Things ESP8266</li>
 <li>DHT22/Am2302 Digitale e Sensore di Umidità</li>
