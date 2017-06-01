@@ -29,7 +29,7 @@ nel frattempo mi sto documentando su:</p>
 <li>App Android per l'invio dati arduino</li>
 <li><a href="./map.html">Mappa html su Github</a></li>
 <li><a href="./mapgjsongithub.geojson">Mappa GeoJSON su Github</a></li>
-<li>Associazione delle letture GPS e SDS<br /><a href="https://maxalone.github.io/ardusb/ciclo_ardusb.png"><img width="10%" src="./ciclo_ardusb.png" /></a><br />Il sensore SDS ha bisogno di almeno 10" per riempirsi di nuova aria e fare un paio di letture. Ho raddoppiato questo tempo.In corrispondenza con le frecce verdi ci sono i momenti in cui è possibile associare le letture della posizione del GPS con quella della qualità dell'aria dell'SDS.Quindi l'ultima lettura GPS è molto prossima alla prima dell'SDS come l'ultima SDS è prossima alla prima lettura di posizione GPS del ciclo successivo<li>
+<li>Associazione delle letture GPS e SDS<br /><a href="https://maxalone.github.io/ardusb/ciclo_ardusb.png"><img width="10%" src="./ciclo_ardusb.png" /></a><br />Il sensore SDS ha bisogno di almeno 10" per riempirsi di nuova aria e fare un paio di letture. Ho raddoppiato questo tempo.In corrispondenza con le frecce verdi ci sono i momenti in cui è possibile associare le letture della posizione del GPS con quella della qualità dell'aria dell'SDS.Quindi l'ultima lettura GPS è molto prossima alla prima dell'SDS come l'ultima SDS è prossima alla prima lettura di posizione GPS del ciclo successivo</li>
 </ul>
 
 <p>sFATTO list:</p>
@@ -49,6 +49,7 @@ nel frattempo mi sto documentando su:</p>
 <li>Creazione db e collezione su MONGODB e popolamento da RED conservando la natura JSON<br /><a href="https://maxalone.github.io/ardusb/mongo.JPG"><img width="10%" src="./mongo.JPG" /></a><br /><a href="https://maxalone.github.io/ardusb/node_mongo.JPG"><img width="10%" src="./node_mongo.JPG" /></a></li>
 <li>Aggiunto campo data e ora nel payload verso mongodb</li>
 </ul>
+
 <p>MATERIALE arrivato:</p>
 <ul>
 <li>GPS VK2828U7G5LF</li>
