@@ -29,6 +29,7 @@ nel frattempo mi sto documentando su:</p>
 <li>App Android per l'invio dati arduino</li>
 <li><a href="./map.html">Mappa html su Github</a></li>
 <li><a href="./mapgjsongithub.geojson">Mappa GeoJSON su Github</a></li>
+<li>Associazione delle letture GPS e SDS<br /><a href="https://maxalone.github.io/ardusb/ciclo_ardusb.png"><img width="10%" src="./ciclo_ardusb.png" /></a><li>
 </ul>
 
 <p>sFATTO list:</p>
