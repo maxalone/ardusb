@@ -49,6 +49,7 @@ nel frattempo mi sto documentando su:</p>
 <li>Creazione db e collezione su MONGODB e popolamento da RED conservando la natura JSON<br /><a href="https://maxalone.github.io/ardusb/mongo.JPG"><img width="10%" src="./mongo.JPG" /></a><br /><a href="https://maxalone.github.io/ardusb/node_mongo.JPG"><img width="10%" src="./node_mongo.JPG" /></a></li>
 <li>Aggiunto campo data e ora nel payload verso mongodb</li>
 <li>Bot twitter <a href="https://t.me/Ardusbot">https://t.me/Ardusbot</a> (in continuo sviluppo quindi potrebbe dare risultati inattesi. il bot è in funzione solo quando è acceso il PC di sviluppo)</li>
+<li>modifiche a tutto il codice e agli ambienti per l'implementazione del nuovo sensore temperatura e umidità</li>
 </ul>
 
 <p>MATERIALE arrivato:</p>
@@ -60,11 +61,11 @@ nel frattempo mi sto documentando su:</p>
 <li>40 pz in Fila Dupont Cavo 20 cm 2.54mm pin 1 p-1 p Femmina a Ponticello</li>
 <li>Alta Sensibilità Microfono Suono Modulo Sensore di Rilevamento Per Arduino AVR PIC</li>
 <li>5 V-3 V IIC UART SPI Four Modulo Convertitore di Livello A 4 Canali per Arduino</li>
+<li>DHT22/Am2302 Digitale e Sensore di Umidità</li>
 </ul>
 
 <p>Materiale atteso:</p>
 <ul>
 <li>micro sd tf card di memoria micro sd spi per arduino shield module</li>
 <li>Nuovo Wireless modulo CH340 NodeMcu V3 Lua WIFI Internet of Things ESP8266</li>
-<li>DHT22/Am2302 Digitale e Sensore di Umidità</li>
 </ul>
