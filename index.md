@@ -62,10 +62,9 @@ nel frattempo mi sto documentando su:</p>
 <li>Alta Sensibilità Microfono Suono Modulo Sensore di Rilevamento Per Arduino AVR PIC</li>
 <li>5 V-3 V IIC UART SPI Four Modulo Convertitore di Livello A 4 Canali per Arduino</li>
 <li>DHT22/Am2302 Digitale e Sensore di Umidità</li>
-</ul>
-
-<p>Materiale atteso:</p>
-<ul>
 <li>micro sd tf card di memoria micro sd spi per arduino shield module</li>
 <li>Nuovo Wireless modulo CH340 NodeMcu V3 Lua WIFI Internet of Things ESP8266</li>
 </ul>
+
+<p>Materiale atteso:</p>
+<p>Nessuno</p>
