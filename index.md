@@ -17,6 +17,7 @@ nel frattempo mi sto documentando su:</p>
 <li>MQTT</li>
 <li>Mosquito MQTT broker</li>
 <li>NodeMCU CH340 cpm ESP8266</li>
+<li>eLUA</li>
 </ul>
 
 <p>TODO/Working list:</p>
@@ -32,6 +33,7 @@ nel frattempo mi sto documentando su:</p>
 <li><a href="./mapgjsongithub.geojson">Mappa GeoJSON su Github</a></li>
 <li>Associazione delle letture GPS e SDS<br /><a href="https://maxalone.github.io/ardusb/ciclo_ardusb.png"><img width="10%" src="./ciclo_ardusb.png" /></a><br />Il sensore SDS ha bisogno di almeno 10" per riempirsi di nuova aria e fare un paio di letture. Ho raddoppiato questo tempo.In corrispondenza con le frecce verdi ci sono i momenti in cui è possibile associare le letture della posizione del GPS con quella della qualità dell'aria dell'SDS.Quindi l'ultima lettura GPS è molto prossima alla prima dell'SDS come l'ultima SDS è prossima alla prima lettura di posizione GPS del ciclo successivo</li>
 <li>Gestione web CH340</li>
+<li>Gestione degli stati di consumo delle board per il risparmio energetico in mobilità</li>
 </ul>
 
 <p>sFATTO list:</p>
