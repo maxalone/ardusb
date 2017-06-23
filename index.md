@@ -53,7 +53,7 @@ nel frattempo mi sto documentando su:</p>
 <li>Bot twitter <a href="https://t.me/Ardusbot">https://t.me/Ardusbot</a> (in continuo sviluppo quindi potrebbe dare risultati inattesi. il bot è in funzione solo quando è acceso il PC di sviluppo)</li>
 <li>modifiche a tutto il codice e agli ambienti per l'implementazione del nuovo sensore temperatura e umidità</li>
 <li>Rappresentazione dati in tempo reale in cruscotto RED</li>
-<li>Template responsive a cura di Tapioca Muffin<a href="https://maxalone.github.io/ardusb/NFa2UnaZ.jpg"><img width="10%" src="./NFa2UnaZ.jpg" /></a><br /><li>
+<li>Template responsive a cura di Tapioca Muffin<br /><a href="https://maxalone.github.io/ardusb/NFa2UnaZ.jpg"><img width="10%" src="./NFa2UnaZ.jpg" /></a><br /><li>
 </ul>
 
 <p>MATERIALE arrivato:</p>
