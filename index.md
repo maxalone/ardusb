@@ -24,15 +24,14 @@ nel frattempo mi sto documentando su:</p>
 <ul>
 <li>Parser RED risposta JSON NMEA da arduino</li>
 <li>Memorizzazione JSON in MONGODB via RED</li>
-<li>Rappresentazione dati in tempo reale in cruscotto RED</li>
 <li>Pubblicazione via leafletjs</li>
-<li>Implementazione progressiva ulteriori sensori</li>
 <li>App Android per la gestione arduino</li>
 <li>App Android per l'invio dati arduino</li>
 <li><a href="./map.html">Mappa html su Github</a></li>
 <li><a href="./mapgjsongithub.geojson">Mappa GeoJSON su Github</a></li>
 <li>Associazione delle letture GPS e SDS<br /><a href="https://maxalone.github.io/ardusb/ciclo_ardusb.png"><img width="10%" src="./ciclo_ardusb.png" /></a><br />Il sensore SDS ha bisogno di almeno 10" per riempirsi di nuova aria e fare un paio di letture. Ho raddoppiato questo tempo.In corrispondenza con le frecce verdi ci sono i momenti in cui è possibile associare le letture della posizione del GPS con quella della qualità dell'aria dell'SDS.Quindi l'ultima lettura GPS è molto prossima alla prima dell'SDS come l'ultima SDS è prossima alla prima lettura di posizione GPS del ciclo successivo</li>
-<li>Gestione web CH340</li>
+<li>Gestione web CH340 (web rel.1 ok, rel.2 in sviluppo)</li>
+<li>Template responsive a cura di Tapioca Muffin<a href="https://maxalone.github.io/ardusb/NFa2UnaZ.png"><img width="10%" src="./NFa2UnaZ.png" /></a><br /><li>
 <li>Gestione degli stati di consumo delle board per il risparmio energetico in mobilità</li>
 </ul>
 
@@ -54,6 +53,8 @@ nel frattempo mi sto documentando su:</p>
 <li>Aggiunto campo data e ora nel payload verso mongodb</li>
 <li>Bot twitter <a href="https://t.me/Ardusbot">https://t.me/Ardusbot</a> (in continuo sviluppo quindi potrebbe dare risultati inattesi. il bot è in funzione solo quando è acceso il PC di sviluppo)</li>
 <li>modifiche a tutto il codice e agli ambienti per l'implementazione del nuovo sensore temperatura e umidità</li>
+<li>Rappresentazione dati in tempo reale in cruscotto RED</li>
+
 </ul>
 
 <p>MATERIALE arrivato:</p>
