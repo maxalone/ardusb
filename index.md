@@ -31,7 +31,6 @@ nel frattempo mi sto documentando su:</p>
 <li><a href="./mapgjsongithub.geojson">Mappa GeoJSON su Github</a></li>
 <li>Associazione delle letture GPS e SDS<br /><a href="https://maxalone.github.io/ardusb/ciclo_ardusb.png"><img width="10%" src="./ciclo_ardusb.png" /></a><br />Il sensore SDS ha bisogno di almeno 10" per riempirsi di nuova aria e fare un paio di letture. Ho raddoppiato questo tempo.In corrispondenza con le frecce verdi ci sono i momenti in cui è possibile associare le letture della posizione del GPS con quella della qualità dell'aria dell'SDS.Quindi l'ultima lettura GPS è molto prossima alla prima dell'SDS come l'ultima SDS è prossima alla prima lettura di posizione GPS del ciclo successivo</li>
 <li>Gestione web CH340 (web rel.1 ok, rel.2 in sviluppo)</li>
-<li>Template responsive a cura di Tapioca Muffin<a href="https://maxalone.github.io/ardusb/NFa2UnaZ.png"><img width="10%" src="./NFa2UnaZ.png" /></a><br /><li>
 <li>Gestione degli stati di consumo delle board per il risparmio energetico in mobilità</li>
 </ul>
 
@@ -54,7 +53,7 @@ nel frattempo mi sto documentando su:</p>
 <li>Bot twitter <a href="https://t.me/Ardusbot">https://t.me/Ardusbot</a> (in continuo sviluppo quindi potrebbe dare risultati inattesi. il bot è in funzione solo quando è acceso il PC di sviluppo)</li>
 <li>modifiche a tutto il codice e agli ambienti per l'implementazione del nuovo sensore temperatura e umidità</li>
 <li>Rappresentazione dati in tempo reale in cruscotto RED</li>
-
+<li>Template responsive a cura di Tapioca Muffin<a href="https://maxalone.github.io/ardusb/NFa2UnaZ.jpg"><img width="10%" src="./NFa2UnaZ.jpg" /></a><br /><li>
 </ul>
 
 <p>MATERIALE arrivato:</p>
