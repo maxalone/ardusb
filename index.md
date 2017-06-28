@@ -56,6 +56,8 @@ nel frattempo mi sto documentando su:</p>
 <li>modifiche a tutto il codice e agli ambienti per l'implementazione del nuovo sensore temperatura e umidità</li>
 <li>Rappresentazione dati in tempo reale in cruscotto RED</li>
 <li>Template responsive a cura di Tapioca Muffin<br /><a href="https://maxalone.github.io/ardusb/NFa2UnaZ.jpg"><img width="10%" src="./NFa2UnaZ.jpg" /></a><br /></li>
+<li>Installazione Mosquito MQTT broker ed esposizione</li>
+<li>Prototipo MQTT su NodeMCU (con 503) e implementazione progressiva degli altri sensori, test utilizzo del telethering o del modem 4G</li>
 </ul>
 
 <p>MATERIALE arrivato:</p>
@@ -73,4 +75,4 @@ nel frattempo mi sto documentando su:</p>
 </ul>
 
 <p>Materiale atteso:</p>
-<p>Nessuno</p>
+<p>Preparazione carrelli ordine per altre 3 centraline</p>
